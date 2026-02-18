@@ -76,7 +76,7 @@ Tampermonkey userscripts I built to fix annoyances and add features to sites I u
 
 ## Projects In Progress
 
-- 🗣️ **[Language Learning]: App to learn various languages.
+- 🗣️ **[Language Learning]**: App to learn various languages.
 - 🧬 **[Neural Net Course](https://www.ashwinmenon.com/neuralnetcourse/)** — Building neural networks from scratch (in progress)
 
 ---

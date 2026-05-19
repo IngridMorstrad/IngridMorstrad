@@ -48,7 +48,7 @@ Selected posts from across topics — software, finance, immigration, culture, a
 
 One-off tools and pages built when inspiration struck.
 
-- 💳 **[Cash vs Points](https://www.ashwinmenon.com/curiosities/cash_points.html)** — Miles vs cash-back calculator with breakeven analysis
+- 💳 **[Cash vs Points](https://www.ashwinmenon.com/curiosities/cash_points)** — Miles vs cash-back calculator with breakeven analysis
 - ♟️ **[Lichess](https://www.ashwinmenon.com/lichess/)** — Visualize your rating progression over games played
 - 🧹 **[Clean Logs](https://www.ashwinmenon.com/clean_logs/)** — Strip file:line prefixes from log output
 - 🧭 **[Values](https://www.ashwinmenon.com/values/)** — Personal values and life philosophy
